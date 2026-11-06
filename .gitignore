@@ -1,0 +1,6 @@
+# 运行时数据：settings.json 含账号密码，绝不能入库
+data/
+下载/
+__pycache__/
+*.pyc
+*.log
